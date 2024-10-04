@@ -60,19 +60,19 @@ body {
 }
 
 .container .product .color .yellow {
-    background: #FFD700; /* Amarelo */
+    background: #FFD700; 
 }
 
 .container .product .color .pink {
-    background: #FF69B4; /* Rosa */
+    background: #FF69B4; 
 }
 
 .container .product .color .blue {
-    background: #1E90FF; /* Azul */
+    background: #1E90FF; 
 }
 
 .container .product .color .dark-green {
-    background: #006400; /* Verde escuro */
+    background: #006400; 
 }
 
 .container .product .color .active::after {
